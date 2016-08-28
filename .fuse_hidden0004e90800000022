@@ -1,0 +1,205 @@
+Loading Model...	
+Time elapsed for loading model is 0.67814302444458 seconds	
+New Model Successfully Created with default parameters	
+Accumulating Parameters...	
+Loading Data...	
+Time take to load data 	8.1062316894531e-06	
+Training ...	
+==> doing epoch on training data:	
+==> Batch Epoch # 0	
+Batch Size	128	
+Epoch: [0][1/21]	Time 1.297 Err 0.3629 LR -1e+00 DataLoadingTime 2.168	
+Epoch: [0][2/21]	Time 1.061 Err 0.3556 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [0][3/21]	Time 1.033 Err 0.3564 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [0][4/21]	Time 1.011 Err 0.3571 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][5/21]	Time 0.914 Err 0.3558 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][6/21]	Time 0.916 Err 0.3645 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][7/21]	Time 0.908 Err 0.3556 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][8/21]	Time 0.955 Err 0.3593 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [0][9/21]	Time 0.938 Err 0.3535 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][10/21]	Time 0.915 Err 0.3506 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][11/21]	Time 0.930 Err 0.3521 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][12/21]	Time 0.994 Err 0.3601 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][13/21]	Time 0.990 Err 0.3584 LR -1e+00 DataLoadingTime 0.009	
+Epoch: [0][14/21]	Time 0.974 Err 0.3604 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][15/21]	Time 0.981 Err 0.3562 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][16/21]	Time 0.934 Err 0.3635 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][17/21]	Time 0.931 Err 0.3564 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][18/21]	Time 1.009 Err 0.3567 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][19/21]	Time 1.009 Err 0.3576 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][20/21]	Time 0.922 Err 0.3581 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [0][21/21]	Time 0.928 Err 0.3588 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35678858708137	10000000000	
+Saving best Model	
+Epoch: [1][TRAINING SUMMARY] Total Time(s): 33.47	average loss (per batch): 0.36 	 average loss (valid batch): 0.36 	 	
+
+	
+Batch Size	128	
+Epoch: [1][1/21]	Time 0.952 Err 0.3512 LR -1e+00 DataLoadingTime 12.589	
+Epoch: [1][2/21]	Time 0.950 Err 0.3546 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [1][3/21]	Time 0.946 Err 0.3630 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][4/21]	Time 0.949 Err 0.3569 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][5/21]	Time 0.939 Err 0.3494 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][6/21]	Time 0.944 Err 0.3578 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][7/21]	Time 0.947 Err 0.3542 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [1][8/21]	Time 0.961 Err 0.3569 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [1][9/21]	Time 0.954 Err 0.3590 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][10/21]	Time 0.950 Err 0.3509 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][11/21]	Time 0.965 Err 0.3641 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][12/21]	Time 0.958 Err 0.3594 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][13/21]	Time 0.953 Err 0.3588 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][14/21]	Time 0.961 Err 0.3549 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][15/21]	Time 0.970 Err 0.3578 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][16/21]	Time 0.958 Err 0.3561 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][17/21]	Time 1.009 Err 0.3538 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][18/21]	Time 0.992 Err 0.3618 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][19/21]	Time 0.997 Err 0.3525 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][20/21]	Time 1.037 Err 0.3542 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [1][21/21]	Time 0.993 Err 0.3563 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35599260836367	0.35678858708137	
+Saving best Model	
+Epoch: [2][TRAINING SUMMARY] Total Time(s): 66.05	average loss (per batch): 0.37 	 average loss (valid batch): 0.36 	 	
+
+	
+Batch Size	128	
+Epoch: [2][1/21]	Time 0.900 Err 0.3571 LR -1e+00 DataLoadingTime 12.331	
+Epoch: [2][2/21]	Time 0.844 Err 0.3568 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [2][3/21]	Time 0.838 Err 0.3557 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][4/21]	Time 0.857 Err 0.3583 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][5/21]	Time 0.906 Err 0.3558 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [2][6/21]	Time 0.831 Err 0.3537 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][7/21]	Time 0.834 Err 0.3582 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [2][8/21]	Time 0.831 Err 0.3550 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][9/21]	Time 0.830 Err 0.3640 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][10/21]	Time 0.831 Err 0.3589 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][11/21]	Time 0.832 Err 0.3500 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][12/21]	Time 0.834 Err 0.3553 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [2][13/21]	Time 0.832 Err 0.3538 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][14/21]	Time 0.854 Err 0.3450 LR -1e+00 DataLoadingTime 0.013	
+Epoch: [2][15/21]	Time 0.833 Err 0.3502 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][16/21]	Time 0.829 Err 0.3531 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][17/21]	Time 0.829 Err 0.3576 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][18/21]	Time 0.861 Err 0.3608 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][19/21]	Time 0.833 Err 0.3525 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [2][20/21]	Time 0.838 Err 0.3584 LR -1e+00 DataLoadingTime 0.009	
+Epoch: [2][21/21]	Time 0.844 Err 0.3598 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35549613916212	0.35599260836367	
+Saving best Model	
+Epoch: [3][TRAINING SUMMARY] Total Time(s): 96.07	average loss (per batch): 0.37 	 average loss (valid batch): 0.36 	 	
+
+	
+Batch Size	128	
+Epoch: [3][1/21]	Time 0.979 Err 0.3570 LR -1e+00 DataLoadingTime 12.196	
+Epoch: [3][2/21]	Time 0.855 Err 0.3505 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [3][3/21]	Time 0.840 Err 0.3562 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][4/21]	Time 0.833 Err 0.3554 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][5/21]	Time 0.865 Err 0.3571 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][6/21]	Time 0.839 Err 0.3569 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][7/21]	Time 0.854 Err 0.3563 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][8/21]	Time 0.830 Err 0.3565 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][9/21]	Time 0.832 Err 0.3573 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][10/21]	Time 0.831 Err 0.3490 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][11/21]	Time 0.832 Err 0.3578 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][12/21]	Time 0.835 Err 0.3584 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][13/21]	Time 0.842 Err 0.3572 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][14/21]	Time 0.831 Err 0.3535 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][15/21]	Time 0.832 Err 0.3540 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][16/21]	Time 0.847 Err 0.3604 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][17/21]	Time 0.829 Err 0.3517 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][18/21]	Time 0.831 Err 0.3561 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][19/21]	Time 0.830 Err 0.3537 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][20/21]	Time 0.830 Err 0.3538 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [3][21/21]	Time 0.832 Err 0.3528 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35514763072527	0.35549613916212	
+Saving best Model	
+Epoch: [4][TRAINING SUMMARY] Total Time(s): 126.22	average loss (per batch): 0.37 	 average loss (valid batch): 0.36 	 	
+
+	
+Batch Size	128	
+Epoch: [4][1/21]	Time 1.012 Err 0.3562 LR -1e+00 DataLoadingTime 12.106	
+Epoch: [4][2/21]	Time 0.881 Err 0.3541 LR -1e+00 DataLoadingTime 0.009	
+Epoch: [4][3/21]	Time 0.831 Err 0.3533 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][4/21]	Time 0.838 Err 0.3531 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][5/21]	Time 0.842 Err 0.3589 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [4][6/21]	Time 0.835 Err 0.3540 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [4][7/21]	Time 0.831 Err 0.3474 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][8/21]	Time 0.830 Err 0.3502 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][9/21]	Time 0.831 Err 0.3572 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][10/21]	Time 0.830 Err 0.3624 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][11/21]	Time 0.829 Err 0.3574 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][12/21]	Time 0.830 Err 0.3439 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][13/21]	Time 0.832 Err 0.3586 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [4][14/21]	Time 0.829 Err 0.3554 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][15/21]	Time 0.830 Err 0.3533 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][16/21]	Time 0.840 Err 0.3595 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][17/21]	Time 0.830 Err 0.3518 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][18/21]	Time 0.831 Err 0.3596 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][19/21]	Time 0.832 Err 0.3563 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][20/21]	Time 0.834 Err 0.3517 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [4][21/21]	Time 0.829 Err 0.3609 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35492842206879	0.35514763072527	
+Saving best Model	
+Epoch: [5][TRAINING SUMMARY] Total Time(s): 155.25	average loss (per batch): 0.37 	 average loss (valid batch): 0.35 	 	
+
+	
+Batch Size	128	
+Epoch: [5][1/21]	Time 0.836 Err 0.3537 LR -1e+00 DataLoadingTime 11.433	
+Epoch: [5][2/21]	Time 0.832 Err 0.3559 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][3/21]	Time 0.839 Err 0.3537 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][4/21]	Time 0.832 Err 0.3525 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][5/21]	Time 0.890 Err 0.3533 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][6/21]	Time 0.833 Err 0.3498 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][7/21]	Time 0.836 Err 0.3633 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][8/21]	Time 0.838 Err 0.3547 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][9/21]	Time 0.832 Err 0.3580 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][10/21]	Time 0.840 Err 0.3567 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][11/21]	Time 0.837 Err 0.3561 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][12/21]	Time 0.844 Err 0.3506 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [5][13/21]	Time 0.831 Err 0.3531 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][14/21]	Time 0.832 Err 0.3573 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][15/21]	Time 0.843 Err 0.3495 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][16/21]	Time 0.831 Err 0.3557 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][17/21]	Time 0.902 Err 0.3496 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][18/21]	Time 0.871 Err 0.3608 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][19/21]	Time 0.838 Err 0.3568 LR -1e+00 DataLoadingTime 0.007	
+Epoch: [5][20/21]	Time 0.833 Err 0.3539 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [5][21/21]	Time 0.831 Err 0.3549 LR -1e+00 DataLoadingTime 0.006	
+validError,bestError	0.35465019495872	0.35492842206879	
+Saving best Model	
+Epoch: [6][TRAINING SUMMARY] Total Time(s): 184.21	average loss (per batch): 0.37 	 average loss (valid batch): 0.35 	 	
+
+	
+Batch Size	128	
+Epoch: [6][1/21]	Time 0.833 Err 0.3552 LR -1e+00 DataLoadingTime 11.194	
+Epoch: [6][2/21]	Time 0.840 Err 0.3534 LR -1e+00 DataLoadingTime 0.008	
+Epoch: [6][3/21]	Time 0.844 Err 0.3554 LR -1e+00 DataLoadingTime 0.009	
+Epoch: [6][4/21]	Time 0.838 Err 0.3589 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][5/21]	Time 0.839 Err 0.3556 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][6/21]	Time 0.829 Err 0.3587 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][7/21]	Time 0.831 Err 0.3508 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][8/21]	Time 0.830 Err 0.3522 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][9/21]	Time 0.831 Err 0.3486 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][10/21]	Time 0.831 Err 0.3543 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][11/21]	Time 0.857 Err 0.3525 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][12/21]	Time 0.832 Err 0.3564 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][13/21]	Time 0.834 Err 0.3579 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][14/21]	Time 0.831 Err 0.3560 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][15/21]	Time 0.832 Err 0.3575 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][16/21]	Time 0.830 Err 0.3580 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][17/21]	Time 0.833 Err 0.3518 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][18/21]	Time 0.831 Err 0.3494 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][19/21]	Time 0.830 Err 0.3559 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][20/21]	Time 0.831 Err 0.3653 LR -1e+00 DataLoadingTime 0.006	
+Epoch: [6][21/21]	Time 0.829 Err 0.3429 LR -1e+00 DataLoadingTime 0.006	
+Loading Model...	
+Time elapsed for loading model is 0.50589108467102 seconds	
+New Model Successfully Created with default parameters	
+Accumulating Parameters...	
+Loading Data...	
+Time take to load data 	5.9604644775391e-06	
+Training ...	
+==> doing epoch on training data:	
+==> Batch Epoch # 0	
+Batch Size	128	
+Epoch: [0][1/21]	Time 1.297 Err 0.3629 LR -1e+00 DataLoadingTime 1.892	
+Epoch: [0][2/21]	Time 0.981 Err 0.3556 LR -1e+00 DataLoadingTime 0.006	
